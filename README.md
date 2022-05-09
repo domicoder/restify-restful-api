@@ -2,9 +2,12 @@
 ## Demo
 Open Demo API: [Restify-NewCombin](https://restify-newcombin.herokuapp.com/)
 
-`$ GET ` `/api/members`
-`$ POST` `/api/members`
-`$ POST` `/auth`
+```$ GET``` ```/api/members```
+
+```$ POST``` ```/api/members```
+
+```$ POST``` ```/auth```
+
 ## API
 La pagina debe poder comunicarse con la API de este repositorio. La misma consta de 2 endpoints
 * `GET` ```http://localhost:8081/api/members``` - para obtener los miembros
