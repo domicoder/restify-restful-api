@@ -2,6 +2,8 @@
 <img src="https://img001.prntscr.com/file/img001/KE3MGpe3Q06D0p71rFFupw.jpeg" alt="Web Preview" />
 </h1>
 
+[![Build Status](https://travis-ci.org/dwyl/esta.svg?branch=master)](https://travis-ci.org/dwyl/esta)
+
 ## Demo
 Open Demo API: [Restify-NewCombin](https://restify-newcombin.herokuapp.com/)
 
