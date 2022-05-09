@@ -1,0 +1,30 @@
+{
+  "name": "fast-api-jr",
+  "version": "1.0.0",
+  "description": "Fast API CodeChallenge for juniors",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run serve",
+    "serve": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/newcombin/devskills.git"
+  },
+  "author": "arsenyel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/newcombin/devskills/issues"
+  },
+  "homepage": "https://github.com/newcombin/devskills",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "jsonwebtoken": "~8.2.1",
+    "nodemon": "^1.19.4",
+    "restify": "^8.4.0",
+    "restify-cors-middleware": "^1.1.1",
+    "restify-errors": "^8.0.1",
+    "restify-jwt-community": "~1.0.5"
+  }
+}
