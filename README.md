@@ -1,3 +1,6 @@
+<h1 align="center">
+<img src="https://img001.prntscr.com/file/img001/KE3MGpe3Q06D0p71rFFupw.jpeg" alt="Web Preview" />
+</h1>
 
 ## Demo
 Open Demo API: [Restify-NewCombin](https://restify-newcombin.herokuapp.com/)
